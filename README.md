@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project analyzes customer purchasing behavior using the Online Retail dataset. The objective is to identify high-value customers, segment customers into groups, and evaluate customer retention patterns using machine learning and business intelligence tools.
+<img width="1200" height="600" alt="monthly_revenue" src="https://github.com/user-attachments/assets/6d78e2a1-93a3-4aa3-9ec5-109fa02973c1" />
 
 ## Technologies Used
 
